@@ -2,3 +2,5 @@ venv
 data
 .ipynb_checkpoints
 'penguins and turtles.zip'
+penguins
+turtles
